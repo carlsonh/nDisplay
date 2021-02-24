@@ -57,6 +57,9 @@ Build/*
 Build/*/**
 !Build/*/PakBlacklist*.txt
 
+#Save nDisplay tools in Startup folder
+!--Startup--/*.*
+
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
